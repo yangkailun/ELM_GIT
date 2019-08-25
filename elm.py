@@ -89,6 +89,7 @@ show_button = tk.Button(root, text = 'show', command = show_call_back,
 change_button = tk.Button(root, text = 'change', command = change_call_back,
                      background = '#0000ff')
 show_button.pack()
+
 change_button.pack()
 
 ## 定义并放置输入英语和汉语的文本框
