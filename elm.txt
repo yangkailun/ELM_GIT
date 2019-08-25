@@ -8,7 +8,7 @@ Whoever else may object,I mean to do it.%不管还有谁反对，我都会去做
 Have you any money on you?%你身上带钱了吗？
 you%你
 They exchanged few words.%他们没交谈几句。
-They had very little money.%他们没多少个钱。
 me%我
+They had very little money.%他们没有几个钱。
 hello%你好
 word%单词
