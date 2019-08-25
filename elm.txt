@@ -9,3 +9,4 @@ Have you any money on you?%你身上带钱了吗？
 They exchanged few words.%他们没交谈几句。
 They had very little money.%他们没几个钱。
 hello%你好
+word%单词
