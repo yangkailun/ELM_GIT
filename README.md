@@ -6,3 +6,4 @@
 ## 模拟在print-feature分支下开发功能
 ## 模拟在我添加hello-feature时，其他人修改了develop的文件，但不是我修改的文件
 ## 模拟在我添加why-feature时，其他人修改了与我相同的文件elm.txt
+## 模拟协作完成not-feature时，大家修改的代码有重叠
